@@ -1,4 +1,4 @@
-## Freelance Project - Made like 7-10 Frontend Pages 
+## Freelance Project - Made like 7-10 Frontend Pages - Do a npm i && npm run dev - you wont regret it.
 
 # Tech Stack
 Frontend : Next.js 
