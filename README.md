@@ -1,9 +1,7 @@
-## Freelance Project - Made like 7-10 Frontend Pages - 
-
 ### Do a npm i && npm run dev - you wont regret it.
 
 # Tech Stack
-Frontend : Next.js 
+Frontend : Next.js
 Backend : Express.js, Prisma
 DB : PostgreSQL, 
 
