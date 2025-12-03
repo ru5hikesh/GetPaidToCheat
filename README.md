@@ -1,4 +1,4 @@
-### Do a npm i && npm run dev - you wont regret it.
+Do a npm i && npm run dev - you wont regret it.
 
 # Tech Stack
 Frontend : Next.js
